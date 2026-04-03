@@ -7,7 +7,7 @@
 
 ## 👩🏾‍💻 About This Portfolio
 
-I'm a Full Stack Developer in training and Independent Performance Science Researcher, building the technical infrastructure for **Biorhythmic Productivity Systems (BPS)**.
+I'm a Full Stack Developer in training and Independent Researcher pioneering & building the technical infrastructure for **Biorhythmic Productivity Systems (BPS)**.
 
 This repository documents my growth as a developer — year by year, project by project.
 
@@ -31,8 +31,8 @@ This repository documents my growth as a developer — year by year, project by 
 ---
 
 ## 🔗 Find Me
-- 💼 LinkedIn — [Kuda M'ndau]()
-- 🌱 Learning Journey — [#190DaysTOPFoundations](link to your challenge repo)
+- 💼 LinkedIn — [Kuda M'ndau](https://www.linkedin.com/in/kuda-mndau/)
+- 🌱 Learning Journey — [#190DaysTOPFoundations](/fullstack-webdev-course-top-2026-2027/01-foundations/README.md)
 
 ---
 
